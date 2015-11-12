@@ -24,9 +24,9 @@ Aliases
 [1]: https://symfony.com
 
 sf='`_symfony_console`'
-sfcl='sf cache:clear'
 sfsr='sf server:run -vvv'
+sfcl='sf cache:clear'
 sfcw='sf cache:warmup'
-sfroute='sf router:debug'
-sfcontainer='sf container:debug'
+sfdr='sf debug:router'
+sfdc='sf debug:container'
 sfgb='sf generate:bundle'
