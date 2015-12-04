@@ -29,8 +29,8 @@ compdef _symfony2 sf
 
 #Alias
 alias sf='`_symfony_console`'
-alias sfsr='sf server:run -vvv'
 alias sfcc='sf cache:clear'
+alias sfsr='sf server:run -vvv'
 alias sfcw='sf cache:warmup'
 alias sfdc='sf debug:container'
 alias sfdr='sf debug:router'
